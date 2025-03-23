@@ -1,10 +1,11 @@
-![logo_TECT](https://github.com/user-attachments/assets/92449200-49f9-4226-9a99-7cf2972ea811)# Latzel
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5548423.png" width="331" height="84" alt="ElLuizon" /></a>
 <br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3915243093">Create Your Own Logo</a>
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 # Hola Colegas! 👋
+
+![logo_TECT](https://github.com/user-attachments/assets/92449200-49f9-4226-9a99-7cf2972ea811)# Latzel
 
 Gusto de visitar el perfil del estudiante  ✨ Luis Pérez ✨.
 
