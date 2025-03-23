@@ -5,7 +5,9 @@
 
 # Hola Colegas! 👋
 
-![logo_TECT](https://github.com/user-attachments/assets/92449200-49f9-4226-9a99-7cf2972ea811)# Latzel
+![logo_TECT](https://github.com/user-attachments/assets/92449200-49f9-4226-9a99-7cf2972ea811)
+
+# Latzel
 
 Gusto de visitar el perfil del estudiante  ✨ Luis Pérez ✨.
 
