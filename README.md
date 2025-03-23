@@ -7,7 +7,7 @@
 
 ![logo_TECT](https://github.com/user-attachments/assets/92449200-49f9-4226-9a99-7cf2972ea811)
 
-# Latzel
+# Perez Marquez Luis Humberto
 
 Gusto de visitar el perfil del estudiante  ✨ Luis Pérez ✨.
 
